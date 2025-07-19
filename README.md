@@ -14,7 +14,7 @@ Bot funcional en Python que te informa del clima en cualquier ciudad. Perfecto p
 
 ### 🏎️ Juego de Carreras
 Juego arcade simple hecho en Python usando `pygame`. Ideal para aprender estructuras básicas de programación.
-[🔗 Ver en GitHub](https://github.com/Cyrusgz/Car-Game)
+[🔗 Ver en GitHub](https://github.com/Cyrusgz/Car_Game_py)
 
 ## 🚀 Tecnologías que uso
 - Python
