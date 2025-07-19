@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hola, soy Jorge Iglesias
 
-<!--
-**Cyrusgz/Cyrusgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Perfil](https://img.shields.io/badge/Vigo%2C%20Galicia-🛠️-blue)
+![Python](https://img.shields.io/badge/Python-Developer-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-yellow)
 
-Here are some ideas to get you started:
+Soy estudiante de programación con experiencia previa en marketing digital, captación de clientes y automatización de procesos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Proyectos
+
+### 🤖 Telegram Weather Bot
+Bot funcional en Python que te informa del clima en cualquier ciudad. Perfecto para automatizar la consulta del tiempo.
+[🔗 Ver en GitHub](https://github.com/Cyrusgz/telegram-weather-bot)
+
+### 🏎️ Juego de Carreras
+Juego arcade simple hecho en Python usando `pygame`. Ideal para aprender estructuras básicas de programación.
+[🔗 Ver en GitHub](https://github.com/Cyrusgz/Car-Game)
+
+## 🚀 Tecnologías que uso
+- Python
+- Git & GitHub
+- Automatización con APIs
+- Desarrollo de bots para Telegram
+- HTML/CSS (aprendiendo frontend)
+
+## 🎯 Objetivos actuales
+- Subir más proyectos reales y prácticos
+- Aprender frameworks como Flask o Django
+- Crear una web para integrar mis bots y juegos
+
+## 📫 Contacto
+- 📧 Email: *(privado)*
+- 💬 Telegram: @Cyrusgz
+
+Gracias por pasarte por mi perfil 👇
+¡Dale ⭐ a mis proyectos si te gustan!
