@@ -30,7 +30,7 @@ Juego arcade simple hecho en Python usando `pygame`. Ideal para aprender estruct
 
 ## 📫 Contacto
 - 📧 Email: *jorgeifdz1988@gmail.com*
-- 💬 Telegram: @Cyrusgz
+- 💬 Telegram: @ifJorge
 
 Gracias por pasarte por mi perfil 👇
 ¡Dale ⭐ a mis proyectos si te gustan!
